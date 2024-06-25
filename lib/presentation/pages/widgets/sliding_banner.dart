@@ -58,7 +58,7 @@ class _SlidingBannerState extends State<SlidingBanner>
             ),
             child: Text(
               "TITLE",
-              style: textTheme.headline3?.copyWith(
+              style: textTheme.headlineMedium?.copyWith(
                 color: AppColors.white,
               ),
             ),

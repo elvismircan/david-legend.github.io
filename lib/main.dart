@@ -25,7 +25,7 @@ import 'configure_web.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   configureDependencies();
-   configureApp();
+  configureApp();
   runApp(Aerium());
 }
 
